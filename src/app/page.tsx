@@ -1,9 +1,8 @@
-import Card from "@/components/card";
 
 export default function Home() {
   return (
-    <div className="min-h-screen">
-      <Card />
+    <div className="flex justify-center items-center">
+      Home
     </div>
   );
 }
